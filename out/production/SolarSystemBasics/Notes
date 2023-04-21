@@ -1,0 +1,21 @@
+Branches
+
+We need branches to avoid conflicts in every commut
+
+We need branches not to mess up the main branch
+
+----------------------------------------
+
+Scenario
+
+A company wants to develop a solar system.
+
+Requirements:
+1.Develop a solar system basic operational model and deploy it. (Assigned to Joric)
+
+Joric's Approach:
+1. write the code
+2. Test it and commit it in local repo
+3. Push the code to github (main branch)
+
+------------------------------------------
